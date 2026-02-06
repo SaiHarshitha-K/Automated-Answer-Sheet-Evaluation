@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+numpy==1.24.3
+pymupdf==1.23.8
+python-doctr==0.7.0
+tensorflow==2.15.0
+Pillow==10.1.0
+matplotlib==3.8.2
